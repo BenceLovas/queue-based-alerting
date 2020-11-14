@@ -1,0 +1,27 @@
+{
+  "name": "queue-based-alerting",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BenceLovas/queue-based-alerting.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BenceLovas/queue-based-alerting/issues"
+  },
+  "homepage": "https://github.com/BenceLovas/queue-based-alerting#readme",
+  "dependencies": {
+    "uuid": "^8.1.0",
+    "websocket": "^1.0.31"
+  },
+  "devDependencies": {
+    "create-react-app": "^3.4.1"
+  }
+}
